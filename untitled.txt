@@ -1,0 +1,5 @@
+OBSERVATIONS
+
+-- Gender Column only present in Train and not in Test Dataset
+-- About Outlier, the maximum in test Dataset for Absences is 21 and there are some data points outside 
+   30, I believe it's sane to remove them
